@@ -125,7 +125,12 @@ padding:10px;
 .link{
   color:rgb(104, 75, 104);
 }
-
+#solo{
+  color:rgb(104,75,104);
+  font-size:22px;
+margin:auto;
+text-align: center;
+}
 .form-control {
   border-radius: 0;
   min-width: 100%;
